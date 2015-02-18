@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CHEM108: Analytical Chemistry"
+course_description: "A detailed survey of the analytical theories and methods of qualitative and quantitative chemical analysis. Explores gravimetric analysis, titrations, ultraviolet-visible (UV-Vis), infrared (IR), and nuclear magnetic resonance (NMR) spectroscopies, atomic absorption and emission, fluorescence and phosphorescence, chromatographic methods, including, column chromatography, gas chromatography (GC), and high pressure liquid chromatography (HPLC), electrophoresis, and electrochemical analysis techniques."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Electrochemistry** <span id="5"></span> 
 *Analytical electrochemical methods measure the response of an
 electrolyte through current of potential.  Electrochemical methods are
