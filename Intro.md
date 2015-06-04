@@ -116,4 +116,11 @@ the cumulative final.
 to complete, exclusive of the final exam.  The 50-question exam should
 take no more than 2 hours.  
   
+**Table of Contents:** You can find the course's units at the links below.
 
+- [Unit 1](https://legacy.saylor.org/chem108/Unit01/)
+- [Unit 2](https://legacy.saylor.org/chem108/Unit02/)
+- [Unit 3](https://legacy.saylor.org/chem108/Unit03/)
+- [Unit 4](https://legacy.saylor.org/chem108/Unit04/)
+- [Unit 5](https://legacy.saylor.org/chem108/Unit05/)
+- [Unit 6](https://legacy.saylor.org/chem108/Unit06/)
