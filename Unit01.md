@@ -59,7 +59,7 @@ Upon successful completion of this unit, the student will be able to:
     Section 2C: Stoichiometric Calculations”**
     Link: David Harvey’s *Analytical Chemistry 2.0:* “Chapter 2, Section
     2C: [Stoichiometric
-    Calculations](http://www.saylor.org/site/wp-content/uploads/2012/07/Chapter211.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/07/Chapter211.pdf)(PDF)  
+    Calculations](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Chapter211.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Chapter211.pdf)(PDF)  
       
      Instructions:  Click on the link to Chapter 2 to open the PDF. 
     Read Section 2C, starting on page 23 of the text.  This material is
@@ -81,7 +81,7 @@ Upon successful completion of this unit, the student will be able to:
     Basic Tools of Analytical Chemistry” Practice Exercise 2.4**
     Link: David Harvey’s *Analytical Chemistry 2.0:* “Chapter 2: Basic
     Tools of Analytical Chemistry” [Practice Exercise
-    2.4](http://www.saylor.org/site/wp-content/uploads/2012/07/Chapter211.pdf)
+    2.4](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Chapter211.pdf)
     (PDF)  
       
      Instructions: Click on the link to Chapter 2 to open the PDF.  Work
@@ -104,7 +104,7 @@ Upon successful completion of this unit, the student will be able to:
     Section 2B: Concentration”**
     Link: David Harvey’s *Analytical Chemistry 2.0:* “Chapter 2, Section
     2B:
-    [Concentration](http://www.saylor.org/site/wp-content/uploads/2012/07/Chapter211.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/07/Chapter211.pdf)
+    [Concentration](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Chapter211.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Chapter211.pdf)
     (PDF)  
       
      Instructions: Click on the link to Chapter 2 to open the PDF.  Read
@@ -124,7 +124,7 @@ Upon successful completion of this unit, the student will be able to:
     and 2.6**
     Link: David Harvey’s *Analytical Chemistry 2.0:* “Chapter 2: Basic
     Tools of Analytical Chemistry” [Practice Exercises 2.2, 2.5, and
-    2.6](http://www.saylor.org/site/wp-content/uploads/2012/07/Chapter211.pdf)
+    2.6](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Chapter211.pdf)
     (PDF)  
       
      Instructions: Click on the link to Chapter 2 to open the PDF.  Work
@@ -160,7 +160,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: Connexions: Sunil Kumar Singh’s “Stoichiometry”: “Molal
     Concentration”**
     Link: Connexions: Sunil Kumar Singh’s “Stoichiometry”: [“Molal
-    Concentration”](http://www.saylor.org/site/wp-content/uploads/2012/07/CHEM108-1.2.21.pdf)
+    Concentration”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/CHEM108-1.2.21.pdf)
     (PDF)  
       
      Instructions: Read the entire webpage to learn about molal
@@ -177,7 +177,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: Connexions: Sunil Kumar Singh’s “Stoichiometry”: “Molar
     Concentration”**
     Link: Connexions: Sunil Kumar Singh’s “Stoichiometry”: [“Molar
-    Concentration”](http://www.saylor.org/site/wp-content/uploads/2012/07/CHEM108-1.2.3.pdf)
+    Concentration”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/CHEM108-1.2.3.pdf)
     (PDF)  
       
      Instructions: Read the entire webpage to learn about molar
@@ -197,7 +197,7 @@ id="1.2.4"></span> 
 -   **Reading: Professor Stephen Lower’s Chem1 Virtual Textbook:
     “Solutions 1”**
     Link: Professor Stephen Lower’s Chem1 Virtual Textbook: [“Solutions
-    1”](http://www.saylor.org/site/wp-content/uploads/2012/07/CHEM108-1.2.41.pdf)
+    1”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/CHEM108-1.2.41.pdf)
     (PDF)  
       
      Instructions: Focus on the sections concerning “Parts per
@@ -219,7 +219,7 @@ id="1.2.4"></span> 
     Section 2E: Concentration”**
     Link: David Harvey’s *Analytical Chemistry 2.0:* “Chapter 2, Section
     2E:
-    [Concentration”](http://www.saylor.org/site/wp-content/uploads/2012/07/Chapter211.pdf)
+    [Concentration”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Chapter211.pdf)
     (PDF)  
       
      Instructions: Click on the link to Chapter 2 to open the PDF.  Read
@@ -258,7 +258,7 @@ id="1.2.4"></span> 
     Section 5A: Analytical Standards”**
     Link: David Harvey’s *Analytical Chemistry 2.0:* [“Chapter 5,
     Section 5A: Analytical
-    Standards”](http://www.saylor.org/site/wp-content/uploads/2012/07/Chapter511.pdf)
+    Standards”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Chapter511.pdf)
     (PDF)  
       
      Instructions: Click on the link to Chapter 5 to open the PDF.  Read
@@ -282,7 +282,7 @@ id="1.2.4"></span> 
     Section 5C: Determining the Sensitivity (kA)”**
     Link: David Harvey’s *Analytical Chemistry 2.0:* [“Chapter 5,
     Section 5C: Determining the Sensitivity
-    (k<sub>A</sub>)”](http://www.saylor.org/site/wp-content/uploads/2012/07/Chapter511.pdf)
+    (k<sub>A</sub>)”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Chapter511.pdf)
     (PDF)  
       
      Instructions: Click on the link to Chapter 5 to open the PDF.  Read
@@ -304,7 +304,7 @@ id="1.2.4"></span> 
     Standardizing Analytical Methods” Practice Exercises 5.1-5.3**
     Link: David Harvey’s *Analytical* *Chemistry 2.0:* “Chapter 5:
     Standardizing Analytical Methods” [Practice Exercises
-    5.1-5.3](http://www.saylor.org/site/wp-content/uploads/2012/07/Chapter511.pdf) (PDF)  
+    5.1-5.3](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Chapter511.pdf) (PDF)  
       
      Instructions: Click on the link to Chapter 5 to open the PDF.  Work
     through practice problems 5.1 (p. 160), 5.2 (p. 166), and 5.3 (p.
@@ -327,7 +327,7 @@ id="1.2.4"></span> 
     Section 5E: Blank Corrections”**
     Link: David Harvey’s *Analytical Chemistry 2.0:* [“Chapter 5,
     Section 5E: Blank
-    Corrections”](http://www.saylor.org/site/wp-content/uploads/2012/07/Chapter511.pdf)
+    Corrections”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Chapter511.pdf)
     (PDF)  
       
      Instructions: Click on the link to Chapter 5 to open the PDF.  Read
@@ -350,7 +350,7 @@ id="1.2.4"></span> 
     Section 5D: Linear Regression and Calibration Curves”**
     Link: David Harvey’s *Analytical Chemistry 2.0:* [“Chapter 5,
     Section 5D: Linear Regression and Calibration
-    Curves”](http://www.saylor.org/site/wp-content/uploads/2012/07/Chapter511.pdf)
+    Curves”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Chapter511.pdf)
     (PDF)  
       
      Instructions: Click on the link to Chapter 5 to open the PDF.  Read
@@ -373,7 +373,7 @@ id="1.2.4"></span> 
     Standardizing Analytical Methods” Practice Exercise 5.5**
     Link: David Harvey’s *Analytical* *Chemistry 2.0:* “Chapter 5:
     Standardizing Analytical Methods” [Practice Exercise
-    5.5](http://www.saylor.org/site/wp-content/uploads/2012/07/Chapter511.pdf) (PDF)  
+    5.5](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Chapter511.pdf) (PDF)  
         
      Instructions: Click on the link to Chapter 5 to open the PDF.  Work
     through practice problem 5.5 (p. 182).  The solution to this problem
@@ -393,7 +393,7 @@ id="1.2.4"></span> 
     Section 3D: Selecting an Analytical Method”**
     Link: David Harvey’s *Analytical Chemistry 2.0:* “Chapter 3, Section
     3D: [Selecting an Analytical
-    Method”](http://www.saylor.org/site/wp-content/uploads/2012/07/Chapter311.pdf)
+    Method”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Chapter311.pdf)
     (PDF)  
       
      Instructions: Click on the link to Chapter 3 to open the PDF.  Read
@@ -420,7 +420,7 @@ id="1.2.4"></span> 
     3.2**
     Link: David Harvey’s *Analytical Chemistry 2.0:* “Chapter 3: The
     Vocabulary of Analytical Chemistry” [Practice Exercises 3.1 and
-    3.2](http://www.saylor.org/site/wp-content/uploads/2012/07/Chapter311.pdf)
+    3.2](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Chapter311.pdf)
     (PDF)  
       
      Instructions: Click on the link to Chapter 3 to open the PDF.  Work
@@ -444,7 +444,7 @@ id="1.2.4"></span> 
     Section 5C: Determining the Sensitivity (kA)”**
     Link: David Harvey’s *Analytical Chemistry 2.0:* “Chapter 5, Section
     5C: [Determining the Sensitivity
-    (k<sub>A</sub>)”](http://www.saylor.org/site/wp-content/uploads/2012/07/Chapter511.pdf)
+    (k<sub>A</sub>)”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Chapter511.pdf)
     (PDF)  
       
      Instructions:  Click on the link to Chapter 5 to open the PDF. 
@@ -465,7 +465,7 @@ id="1.2.4"></span> 
     Section 4G: Detection Limits”**
     Link: David Harvey’s *Analytical Chemistry 2.0:* “Chapter 4, Section
     4G: [Detection
-    Limits”](http://www.saylor.org/site/wp-content/uploads/2012/07/Chapter411.pdf)
+    Limits”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Chapter411.pdf)
     (PDF)  
       
      Instructions: Click on the link to Chapter 4 to open the PDF.  Read
@@ -490,7 +490,7 @@ id="1.2.4"></span> 
     Gravimetric Methods”**
     Link: David Harvey’s *Analytical Chemistry 2.0:* “Chapter 8:
     [Gravimetric
-    Methods”](http://www.saylor.org/site/wp-content/uploads/2012/07/CHapter81.pdf)
+    Methods”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/CHapter81.pdf)
     (PDF)  
       
      Instructions: Click on the link to Chapter 8 to open the PDF.  Read
@@ -512,7 +512,7 @@ id="1.2.4"></span> 
     Gravimetric Methods:” Practice Exercises 8.1-8.7**
     Link: David Harvey’s *Analytical Chemistry 2.0:* “Chapter 8:
     Gravimetric Methods:” [Practice Exercises
-    8.1-8.7](http://www.saylor.org/site/wp-content/uploads/2012/07/CHapter81.pdf)
+    8.1-8.7](https://resources.saylor.org/archived/wp-content/uploads/2012/07/CHapter81.pdf)
     (PDF)  
       
      Instructions: Click on the link to Chapter 8 to open the PDF.  Work
@@ -553,7 +553,7 @@ id="1.2.4"></span> 
     Section 9B: Acid-Base Titrations”**
     Link: David Harvey’s *Analytical Chemistry 2.0:* “Chapter 9, Section
     9B: [Acid-Base
-    Titrations”](http://www.saylor.org/site/wp-content/uploads/2012/07/Chapter911.pdf)
+    Titrations”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Chapter911.pdf)
     (PDF)  
       
      Instructions: Click on the link to Chapter 9 to open the PDF.  Read
@@ -573,7 +573,7 @@ id="1.2.4"></span> 
     Titrimetric Methods:” Practice Exercises 9.1-9.11**
     Link: David Harvey’s “Analytical Chemistry 2.0”: “Chapter 9:
     Titrimetric Methods” [Practice Exercises
-    9.1-9.11](http://www.saylor.org/site/wp-content/uploads/2012/07/Chapter911.pdf)
+    9.1-9.11](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Chapter911.pdf)
     (PDF)  
       
      Instructions: Click on the link to Chapter 9 to open the PDF.  Work
@@ -630,7 +630,7 @@ id="1.2.4"></span> 
     Section 9C: Complexation Titrations”**
     Link: David Harvey’s *Analytical Chemistry 2.0:* “Chapter 9, Section
     9C: [Complexation
-    Titrations”](http://www.saylor.org/site/wp-content/uploads/2012/07/Chapter911.pdf)
+    Titrations”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Chapter911.pdf)
     (PDF)  
       
      Instructions:  Click on the link to Chapter 9 to open the PDF. 
@@ -649,7 +649,7 @@ id="1.2.4"></span> 
     Titrimetric Methods:” Practice Exercises 9.12-9.16**
     Link: David Harvey’s “Analytical Chemistry 2.0”: “Chapter 9:
     Titrimetric Methods” [Practice Exercises
-    9.12-9.16](http://www.saylor.org/site/wp-content/uploads/2012/07/Chapter911.pdf)
+    9.12-9.16](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Chapter911.pdf)
     (PDF)  
       
      Instructions: Click on the link to Chapter 9 to open the PDF.  Work
@@ -744,7 +744,7 @@ id="1.2.4"></span> 
     Section 9E: Precipitation Titrations”**
     Link: David Harvey’s “Analytical Chemistry 2.0”: “Chapter 9, Section
     9E: [Precipitation
-    Titrations”](http://www.saylor.org/site/wp-content/uploads/2012/07/Chapter911.pdf)
+    Titrations”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Chapter911.pdf)
     (PDF)  
       
      Instructions: Click on the link to Chapter 9 to open the PDF.  Read
@@ -763,7 +763,7 @@ id="1.2.4"></span> 
     Titrimetric Methods:” Practice Exercises 9.22 and 9.23**
     Link: David Harvey’s “Analytical Chemistry 2.0”: “Chapter 9:
     Titrimetric Methods” [Practice Exercises 9.22 and
-    9.23](http://www.saylor.org/site/wp-content/uploads/2012/07/Chapter911.pdf)
+    9.23](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Chapter911.pdf)
     (PDF)  
       
      Instructions: Click on the link to Chapter 9 to open the PDF.  Try

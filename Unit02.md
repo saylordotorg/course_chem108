@@ -56,7 +56,7 @@ Upon successful completion of this unit, the student will be able to:
     Section 10A: Overview of Spectroscopy”**
     Link: David Harvey’s *Analytical Chemistry 2.0:* “Chapter 10,
     Section 10A: [Overview of
-    Spectroscopy”](http://www.saylor.org/site/wp-content/uploads/2012/07/Chapter1011.pdf)
+    Spectroscopy”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Chapter1011.pdf)
     (PDF)  
       
      Instructions: Click on the link to Chapter 10 to open the PDF. 
@@ -82,7 +82,7 @@ Upon successful completion of this unit, the student will be able to:
     Section 10B: Spectroscopy Based on Absorption”**
     Link: David Harvey’s *Analytical Chemistry 2.0:* “Chapter 10,
     Section 10B: [Spectroscopy Based on
-    Absorption”](http://www.saylor.org/site/wp-content/uploads/2012/07/Chapter1011.pdf)
+    Absorption”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Chapter1011.pdf)
     (PDF)  
       
      Instructions: Click on the link to Chapter 10 to open the PDF. 
@@ -103,7 +103,7 @@ Upon successful completion of this unit, the student will be able to:
     Spectroscopic Methods:” Practice Exercises 10.1-10.4**
     Link: David Harvey’s *Analytical Chemistry 2.0:* “Chapter 10:
     Spectroscopic Methods:” [Practice Exercises
-    10.1-10.4](http://www.saylor.org/site/wp-content/uploads/2012/07/Chapter1011.pdf)
+    10.1-10.4](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Chapter1011.pdf)
     (PDF)  
       
      Instructions: Click on the link to Chapter 10 to open the PDF.  Try
@@ -164,7 +164,7 @@ Upon successful completion of this unit, the student will be able to:
     Section 10C: UV/Vis and IR Spectroscopy”**
     Link: David Harvey’s *Analytical Chemistry 2.0:* “Chapter 10,
     Section 10C: [UV/Vis and IR
-    Spectroscopy”](http://www.saylor.org/site/wp-content/uploads/2012/07/Chapter1011.pdf)
+    Spectroscopy”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Chapter1011.pdf)
     (PDF)  
       
      Instructions: Click on the link to Chapter 10 to open the PDF. 
@@ -183,7 +183,7 @@ Upon successful completion of this unit, the student will be able to:
     Spectroscopic Methods:” Practice Exercises 10.5-10.10**
     Link: David Harvey’s *Analytical Chemistry 2.0:* “Chapter 10:
     Spectroscopic Methods:” [Practice Exercises
-    10.5-10.10](http://www.saylor.org/site/wp-content/uploads/2012/07/Chapter1011.pdf)
+    10.5-10.10](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Chapter1011.pdf)
     (PDF)  
       
      Instructions: Click on the link to Chapter 10 to open the PDF. 
