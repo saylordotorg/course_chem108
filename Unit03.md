@@ -34,7 +34,7 @@ Upon successful completion of this unit, the student will be able to:
     Section 10D: Atomic Absorption Spectroscopy”**
     Link: David Harvey’s *Analytical Chemistry 2.0:* “Chapter 10,
     Section 10D: [Atomic Absorption
-    Spectroscopy”](http://www.saylor.org/site/wp-content/uploads/2012/07/Chapter1011.pdf)
+    Spectroscopy”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Chapter1011.pdf)
     (PDF)  
       
      Instructions: Click on the link to Chapter 10 to open the PDF. 
@@ -66,7 +66,7 @@ Upon successful completion of this unit, the student will be able to:
     Section 10E: Emission Spectroscopy”**
     Link: David Harvey’s *Analytical Chemistry 2.0:* “Chapter 10,
     Section 10E: [Emission
-    Spectroscopy”](http://www.saylor.org/site/wp-content/uploads/2012/07/Chapter1011.pdf)
+    Spectroscopy”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Chapter1011.pdf)
     (PDF)  
       
      Instructions: Click on the link to Chapter 10 to open the PDF. 
@@ -86,7 +86,7 @@ Upon successful completion of this unit, the student will be able to:
     Section 10F: Photoluminescence Spectroscopy”**
     Link: David Harvey’s *Analytical Chemistry 2.0:* “Chapter 10,
     Section 10F: [Photoluminescence
-    Spectroscopy”](http://www.saylor.org/site/wp-content/uploads/2012/07/Chapter1011.pdf)
+    Spectroscopy”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Chapter1011.pdf)
     (PDF)  
       
      Instructions: Click on the link to Chapter 10 to open the PDF. 
@@ -158,7 +158,7 @@ Upon successful completion of this unit, the student will be able to:
     Section 10G: Atomic Emission Spectroscopy”**
     Link: David Harvey’s *Analytical Chemistry 2.0:* “Chapter 10,
     Section 10G: [Atomic Emission
-    Spectroscopy”](http://www.saylor.org/site/wp-content/uploads/2012/07/Chapter1011.pdf)
+    Spectroscopy”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Chapter1011.pdf)
     (PDF)  
       
      Instructions: Click on the link to Chapter 10 to open the PDF. 
@@ -189,7 +189,7 @@ Upon successful completion of this unit, the student will be able to:
     Section 10H: Spectroscopy Based on Scattering”**
     Link: David Harvey’s *Analytical Chemistry 2.0:* “Chapter 10,
     Section 10H: [Spectroscopy Based on
-    Scattering”](http://www.saylor.org/site/wp-content/uploads/2012/07/Chapter1011.pdf)
+    Scattering”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Chapter1011.pdf)
     (PDF)  
       
      Instructions:  Click on the link to Chapter 10 to open the PDF. 
