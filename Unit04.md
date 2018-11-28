@@ -45,7 +45,7 @@ Upon successful completion of this unit, the student will be able to:
     Chromatographic and Electrophoretic Methods”**
     Link: David Harvey’s “Analytical Chemistry 2.0”: “Chapter 12:
     [Chromatographic and Electrophoretic
-    Methods”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Chapter121.pdf)
+    Methods”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/Chapter121.pdf)
     (PDF)  
       
      Instructions: Click on the link to Chapter 12 to open the PDF. 
@@ -142,7 +142,7 @@ Upon successful completion of this unit, the student will be able to:
     12.1-12.4**
     Link: David Harvey’s *Analytical Chemistry 2.0:* “Chapter 12:
     Chromatographic and Electrophoretic Methods:” [Practice Exercises
-    12.1-12.4](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Chapter121.pdf)
+    12.1-12.4](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/Chapter121.pdf)
     (PDF)  
       
      Instructions: Complete the following practice exercises: 12.1 (p.
@@ -167,7 +167,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: David Harvey’s *Analytical Chemistry 2.0:* “Chapter 12:
     Chromatographic and Electrophoretic Methods:” [Practice Exercises
     12.5 and
-    12.6](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Chapter121.pdf)
+    12.6](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/Chapter121.pdf)
     (PDF)  
       
      Instructions: Work through practice problems 12.5 (p. 821) and 12.6
@@ -243,7 +243,7 @@ id="4.1.3"></span> 
     Link: David Harvey’s *Analytical Chemistry 2.0:* “Chapter 12:
     Chromatographic and Electrophoretic Methods:” [Practice Exercises
     12.7 and
-    12.8](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Chapter121.pdf)
+    12.8](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/Chapter121.pdf)
     (PDF)  
       
      Instructions: Try to complete the following practice problems: 12.7
@@ -354,7 +354,7 @@ id="4.1.4.4"></span> 
     12.9**
     Link: David Harvey’s *Analytical Chemistry 2.0:* “Chapter 12:
     Chromatographic and Electrophoretic Methods:” [Practice Exercise
-    12.9](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Chapter121.pdf)
+    12.9](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/Chapter121.pdf)
     (PDF)  
       
      Instructions: Please complete practice problem 12.9 (p. 859).  The
