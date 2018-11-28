@@ -60,7 +60,7 @@ Upon successful completion of this unit, the student will be able to:
     Attribution-NonCommercial-ShareAlike 3.0 Unported
     License](http://creativecommons.org/licenses/by-nc-sa/3.0/). The
     original version can be
-    found [here](http://www.asdlib.org/onlineArticles/ecourseware/Analytical%20Chemistry%202.0/Text_Files.html)[.](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Chapter111.pdf)
+    found [here](http://www.asdlib.org/onlineArticles/ecourseware/Analytical%20Chemistry%202.0/Text_Files.html)[.](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/Chapter111.pdf)
 
 -   **Web Media: YouTube: Bannanaiscool’s “Senior Chemistry: Redox
     I-X”**
@@ -83,7 +83,7 @@ Upon successful completion of this unit, the student will be able to:
     Electrochemical Methods:” Practice Exercises 11.1-11.6**
     Link: David Harvey’s *Analytical Chemistry 2.0:* “Chapter 11:
     Electrochemical Methods:” [Practice Exercises
-    11.1-11.6](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Chapter111.pdf)
+    11.1-11.6](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/Chapter111.pdf)
     (PDF)  
       
      Instructions: Work through practice problems 11.1 (p. 677), 11.2
@@ -104,7 +104,7 @@ Upon successful completion of this unit, the student will be able to:
     Electrochemical Methods:” Practice Exercise 11.7**
     Link: David Harvey’s “*Analytical Chemistry 2.0:* “Chapter 11:
     Electrochemical Methods” [Practice Problem
-    11.7](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Chapter111.pdf)
+    11.7](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/Chapter111.pdf)
     (PDF)  
       
      Instructions: Work on practice problem 11.7 (p. 725).  The solution
@@ -135,7 +135,7 @@ Upon successful completion of this unit, the student will be able to:
     Electrochemical Methods:” Practice Exercises 11.8 and 11.9**
     Link: David Harvey’s *Analytical Chemistry 2.0:* “Chapter 11:
     Electrochemical Methods:” [Practice Exercises 11.8 and
-    11.9](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Chapter111.pdf)
+    11.9](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/Chapter111.pdf)
     (PDF)  
       
      Instructions: Work practice problems 11.8 (p. 749) and 11.9 (p.
